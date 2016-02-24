@@ -12,6 +12,10 @@ namespace ServiceProject
     [ServiceContract]
     public interface IServiceStudent
     {
+        /// <summary>
+        /// СТУДЕНТЫ
+        /// </summary>
+        /// 
         [OperationContract]
         void GetStudents();
 
@@ -34,7 +38,7 @@ namespace ServiceProject
         void ModifyStudent();
 
         /// <summary>
-        /// 
+        /// ЗАДАЧИ
         /// </summary>
 
         [OperationContract]
@@ -47,7 +51,7 @@ namespace ServiceProject
         void RemoveTask();
 
         /// <summary>
-        /// 
+        /// МЕНЕДЖЕРЫ
         /// </summary>
 
         [OperationContract]
@@ -63,7 +67,7 @@ namespace ServiceProject
         void RemoveManager();
 
         /// <summary>
-        /// 
+        /// АНАЛИТИКА
         /// </summary>
 
         [OperationContract]
