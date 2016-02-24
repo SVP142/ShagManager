@@ -16,5 +16,12 @@ namespace ShagAdmin
         {
             InitializeComponent();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }
