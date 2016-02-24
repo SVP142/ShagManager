@@ -32,3 +32,6 @@ C:\Users\КажиевС\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\D
 C:\Users\ПрокофьевА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagCheck.exe.config
 C:\Users\ПрокофьевА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\Debug\ShagCheck.exe
 C:\Users\ПрокофьевА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\Debug\ShagCheck.pdb
+C:\Users\ДайтхеА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagCheck.exe.config
+C:\Users\ДайтхеА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\Debug\ShagCheck.exe
+C:\Users\ДайтхеА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\Debug\ShagCheck.pdb
