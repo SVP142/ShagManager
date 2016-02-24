@@ -160,5 +160,10 @@ namespace ServiceProject
             throw new NotImplementedException();
             /*  Добавляем учебные заведения */
         }
+
+        public string GetStringForTest()
+        {
+            return "Haha, Service is working...";
+        }
     }
 }

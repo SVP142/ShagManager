@@ -15,7 +15,10 @@ namespace ServiceProject
         /// <summary>
         /// СТУДЕНТЫ
         /// </summary>
-        /// 
+        ///
+        [OperationContract]
+        string GetStringForTest();
+
         [OperationContract]
         void GetStudents();
 
