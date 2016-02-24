@@ -1,0 +1,14 @@
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagServer.exe.config
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagServer.exe
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagServer.pdb
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\obj\Debug\ShagServer.exe
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\obj\Debug\ShagServer.pdb
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\obj\Debug\ShagServer.csprojResolveAssemblyReference.cache
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ServiceProject.dll
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagModel.dll
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagManager.dll
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\EntityFramework.dll
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ServiceProject.pdb
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagModel.pdb
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\ShagManager.pdb
+C:\Users\КажиевС\Desktop\Projects\ShagManager\ShagManager\ShagServer\bin\Debug\EntityFramework.xml
